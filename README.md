@@ -8,7 +8,7 @@
 
 <h1>Mock Credit Card<br/><sup>LobeChat Plugin</sup></h1>
 
-This plugin automatically crawls the main content of a specified URL webpage and uses it as context input
+This plugin can create a mock credit card number
 
 [![][🤯-🧩-lobehub-shield]][🤯-🧩-lobehub-link]
 [![][github-release-shield]][github-release-link]
