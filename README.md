@@ -6,7 +6,7 @@
 <img height="120" src="https://gw.alipayobjects.com/zos/kitchen/qJ3l3EPsdW/split.svg">
 <img height="120" src="https://registry.npmmirror.com/@lobehub/assets-emoji/1.3.0/files/assets/credit-card.webp">
 
-<h1>Web Crawler<br/><sup>LobeChat Plugin</sup></h1>
+<h1>Mock Credit Card<br/><sup>LobeChat Plugin</sup></h1>
 
 This plugin automatically crawls the main content of a specified URL webpage and uses it as context input
 
