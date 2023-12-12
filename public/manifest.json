@@ -10,6 +10,6 @@
     "title": "Credit Card Generator",
     "description": "Credit Card Number Generator"
   },
-  "openapi": "https://lobe-plugin-mock-credit-card-arvinxx.vercel.app/credit-card-number-generator.json",
+  "openapi": "https://lobe-plugin-mock-credit-card.arvinx.app/credit-card-number-generator.json",
   "version": "1"
 }
