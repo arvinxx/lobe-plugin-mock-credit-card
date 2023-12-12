@@ -1,7 +1,7 @@
 {
   "$schema": "../node_modules/@lobehub/chat-plugin-sdk/schema.json",
   "api": [],
-  "author": "LobeHub",
+  "author": "arvinxx",
   "createdAt": "2023-12-11",
   "gateway": "http://localhost:3410/api/gateway",
   "identifier": "mock-credit-card-dev",
