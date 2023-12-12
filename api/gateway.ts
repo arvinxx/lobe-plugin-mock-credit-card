@@ -1,13 +1,16 @@
-import { createLobeChatPluginGateway } from '@lobehub/chat-plugins-gateway';
-
 export const config = {
   runtime: 'edge',
 };
 
-export default async (req: Request) => {
-  if (process.env.NODE_ENV === 'development') {
-    return createLobeChatPluginGateway()(req);
-  }
-
-  return;
+let fn = async (req: Request): Promise<Response> => {
+  return new Response();
 };
+
+if (process.env.NODE_ENV === 'development') {
+  fn = async (req: Request) => {
+    const { createLobeChatPluginGateway } = await import('@lobehub/chat-plugins-gateway');
+    return createLobeChatPluginGateway()(req);
+  };
+}
+
+export default fn;

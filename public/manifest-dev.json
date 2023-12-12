@@ -3,7 +3,8 @@
   "api": [],
   "author": "LobeHub",
   "createdAt": "2023-12-11",
-  "identifier": "mock-credit-card",
+  "gateway": "http://localhost:3410/api/gateway",
+  "identifier": "mock-credit-card-dev",
   "meta": {
     "avatar": "\uD83D\uDCB3",
     "tags": ["credit-card", "mockup", "generator"],
