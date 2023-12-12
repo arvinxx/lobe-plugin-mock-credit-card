@@ -1,0 +1,16 @@
+{
+  "$schema": "../node_modules/@lobehub/chat-plugin-sdk/schema.json",
+  "api": [],
+  "author": "LobeHub",
+  "createdAt": "2023-12-11",
+  "gateway": "http://localhost:3410/api/gateway",
+  "identifier": "credit-card",
+  "meta": {
+    "avatar": "\uD83D\uDCB3",
+    "tags": ["credit-card", "mockup", "generator"],
+    "title": "Credit Card Generator",
+    "description": "Credit Card Number Generator"
+  },
+  "openapi": "http://localhost:3410/credit-card-number-generator.json",
+  "version": "1"
+}
