@@ -1,5 +1,5 @@
 {
-  "name": "@lobehub/chat-plugin-credit-card-mock-generator",
+  "name": "lobe-chat-plugin-credit-card-mock-generator",
   "version": "1.0.0",
   "private": true,
   "description": "This plugin automatically crawls the main content of a specified URL webpage and uses it as context input",
@@ -62,7 +62,7 @@
     "semantic-release": "^21",
     "stylelint": "^15",
     "typescript": "^5.0.2",
-    "vercel": "^32.7.0",
+    "vercel": "^28",
     "vite": "^5",
     "vitest": "latest"
   },

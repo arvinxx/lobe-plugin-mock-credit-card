@@ -43,7 +43,8 @@
       "apiKeyAuth": {
         "type": "apiKey",
         "in": "header",
-        "name": "X-OpenAPIHub-Key"
+        "name": "X-OpenAPIHub-Key",
+        "description": "Please create a account in the [OpenAPIHub](https://www.openapihub.com) and subscribe [Credit Card Number Generator](https://hub.openapihub.com/zh-cn/v/dev-geeks-7gz88/api/credit-card-number-generator-s9s6b/readme) for free"
       }
     }
   },

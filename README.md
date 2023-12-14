@@ -44,7 +44,7 @@ This plugin can create a mock credit card number
 
 ## 🤯 Usage
 
-This is a function calling plugin for [Lobe Chat](https://github.com/lobehub/lobe-chat), you can install it in plugin setting page.
+Please create a account in the [OpenAPIHub](https://www.openapihub.com) and subscribe [Credit Card Number Generator](https://hub.openapihub.com/zh-cn/v/dev-geeks-7gz88/api/credit-card-number-generator-s9s6b/readme) for free.
 
 <div align="right">
 

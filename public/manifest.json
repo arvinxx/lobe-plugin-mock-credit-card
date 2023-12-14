@@ -8,7 +8,7 @@
     "avatar": "\uD83D\uDCB3",
     "tags": ["credit-card", "mockup", "generator"],
     "title": "Credit Card Generator",
-    "description": "Credit Card Number Generator"
+    "description": "Mock Credit Card Number Generator"
   },
   "openapi": "https://lobe-plugin-mock-credit-card.arvinx.app/credit-card-number-generator.json",
   "version": "1"
